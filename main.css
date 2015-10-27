@@ -36,10 +36,13 @@
 
 .bird {
 	background-color: lightgray;
+	font-style: italic;
 }
 .fish {
 	background-color: lightyellow;
+	text-decoration: underline;
 }
 .mammal {
 	background-color: lavenderblush;
+	font-weight: bold;
 }
