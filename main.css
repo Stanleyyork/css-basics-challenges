@@ -35,11 +35,11 @@
 /* kingdom-specific classes */
 
 .bird {
-
+	background-color: lightgray;
 }
 .fish {
-
+	background-color: lightyellow;
 }
 .mammal {
-
+	background-color: lavenderblush;
 }
