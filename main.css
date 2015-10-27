@@ -1,34 +1,34 @@
 /* animal-specific ids */
 
 #mouse {
-
+	color: gray;
 }
 #canary {
-
+	color: orangered;
 }
 #penguin {
-
+	color: black;
 }
 #salmon {
-
+	color: salmon;
 }
 #cat {
-
+	color: sienna;
 }
 #goldfish {
-
+	color: gold;
 }
 #dog {
-
+	color: tan;
 }
 #sheep {
-
+	color: steelblue;
 }
 #parakeet {
-
+	color: lime;
 }
 #tuna {
-
+	color: purple;
 }
 
 
