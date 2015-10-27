@@ -46,3 +46,17 @@
 	background-color: lavenderblush;
 	font-weight: bold;
 }
+
+/* unordred lists */
+.main-animals {
+	border: 3px;
+	border-color: plum;
+	border-radius: 5px;
+	border-style: dotted;
+}
+.main-trees {
+	border: 3px;
+	border-color: plum;
+	border-radius: 5px;
+	border-style: dotted;
+}
