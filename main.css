@@ -60,3 +60,9 @@
 	border-radius: 5px;
 	border-style: dotted;
 }
+
+li {
+	border: 3px;
+	border-color: seagreen;
+	border-style: solid;
+}
